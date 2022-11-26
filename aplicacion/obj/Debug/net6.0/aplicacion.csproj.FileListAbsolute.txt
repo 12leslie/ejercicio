@@ -1,0 +1,15 @@
+C:\Users\leslie\Desktop\aplicacion\bin\Debug\net6.0\aplicacion.exe
+C:\Users\leslie\Desktop\aplicacion\bin\Debug\net6.0\aplicacion.deps.json
+C:\Users\leslie\Desktop\aplicacion\bin\Debug\net6.0\aplicacion.runtimeconfig.json
+C:\Users\leslie\Desktop\aplicacion\bin\Debug\net6.0\aplicacion.dll
+C:\Users\leslie\Desktop\aplicacion\bin\Debug\net6.0\aplicacion.pdb
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.csproj.AssemblyReference.cache
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.AssemblyInfoInputs.cache
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.AssemblyInfo.cs
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.dll
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\refint\aplicacion.dll
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.pdb
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\aplicacion.genruntimeconfig.cache
+C:\Users\leslie\Desktop\aplicacion\obj\Debug\net6.0\ref\aplicacion.dll
